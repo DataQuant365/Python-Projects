@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm DataQuant! <br/><a href="https://github.com/joshmadakor1">An enthusiastic Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Statistician</a>, <a href="https://www.youtube.com/c/joshmadakor">Programming aspirant</a></h1>
+
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/aiswarya-c-k
 
 <!--
-**DataQuant365/DataQuant365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
